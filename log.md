@@ -25,3 +25,9 @@
 **Today's Progress**: Continuing with the same topic and only learnt to reverse the singly linked list.
 
 **Thoughts**: I am thinking to give more time to this topic. I need to understand this topic completely . I'll  solve few more questions and then switch on to new topic.
+
+### Day 5: August 26, 2020, Wednesday
+
+**Today's Progress**: Still continuing with the same. I solved 3 problems from HackerRank.
+
+**Thoughts**: I was having a lot of work load today so I started bit slowly. So, today I couldn't start with new topic. Tommorrow I'll be starting Doubly Linked List and if possible I'll complete the LinkedList topic.

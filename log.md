@@ -31,3 +31,10 @@
 **Today's Progress**: Still continuing with the same. I solved 3 problems from HackerRank.
 
 **Thoughts**: I was having a lot of work load today so I started bit slowly. So, today I couldn't start with new topic. Tommorrow I'll be starting Doubly Linked List and if possible I'll complete the LinkedList topic.
+
+### Day 6: August 27, 2020, Thursday
+
+**Today's Progress**: Started with Doubly Linked List .I solved traversing and insertion in DLL.
+
+**Thoughts**: I will be completing DLL tommorrow and thinking of solving problems from geeksforgeeks.
+

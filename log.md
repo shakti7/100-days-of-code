@@ -38,3 +38,8 @@
 
 **Thoughts**: I will be completing DLL tommorrow and thinking of solving problems from geeksforgeeks.
 
+### Day 7: August 28, 2020, Friday
+
+**Today's Progress**: Continuing the same topic ,solved deletion and reversing Doubly Linked List.
+
+**Thoughts**: I couldn't solve problems from gfg due to some issues. I am planning to start this from next Wednesday. Tommorrow I'll be starting circular linked list.

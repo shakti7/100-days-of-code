@@ -43,3 +43,11 @@
 **Today's Progress**: Continuing the same topic ,solved deletion and reversing Doubly Linked List.
 
 **Thoughts**: I couldn't solve problems from gfg due to some issues. I am planning to start this from next Wednesday. Tommorrow I'll be starting circular linked list.
+
+
+### Day 8: August 29, 2020, Saturday
+
+**Today's Progress**: Today I practiced Circular Linked List traversal using double & single pointer and insertion.
+
+**Thoughts**: I'll be completing circular linked list sooner and start doubly circular list which will take a day or two.
+

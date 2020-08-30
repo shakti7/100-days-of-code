@@ -51,3 +51,8 @@
 
 **Thoughts**: I'll be completing circular linked list sooner and start doubly circular list which will take a day or two.
 
+### Day 9: August 30, 2020, Sunday
+
+**Today's Progress**: Continuing with the same topic, practiced deletion and reversing circular linked list
+
+**Thoughts**: Tommorrow I'll be completing the entire linked list. Till date I'm moving a bit slow to grab the concepts and I'll take few more days for revising the same chapter. 

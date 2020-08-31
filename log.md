@@ -53,6 +53,13 @@
 
 ### Day 9: August 30, 2020, Sunday
 
-**Today's Progress**: Continuing with the same topic, practiced deletion and reversing circular linked list
+**Today's Progress**: Continuing with the same topic, practiced deletion and reversing circular linked list.
 
 **Thoughts**: Tommorrow I'll be completing the entire linked list. Till date I'm moving a bit slow to grab the concepts and I'll take few more days for revising the same chapter. 
+
+## Day 10: August 31, 2020, Monday
+
+**Today's Progress**: I practiced Doubly Circular linked list traversal and insertion.
+
+
+**Thoughts**: I'll be starting with stack soon. But first I will take some time to revise complete Linked List and solve some extra problems related to the topic.

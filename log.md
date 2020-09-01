@@ -63,3 +63,13 @@
 
 
 **Thoughts**: I'll be starting with stack soon. But first I will take some time to revise complete Linked List and solve some extra problems related to the topic.
+
+
+## Day 11: September 1, 2020,Tuesday
+
+**Today's Progress**: I practiced deletion in doubly circular linked list,which completes linked list topic. Then I practiced 2 problems from GeeksForGeeks.
+
+**Thoughts**: As I was able to solve only 2 problems from gfg in one hour even after completing linked list topic,so I felt little bit demotivated. Tommorrow I may be starting with stack.
+
+**Reference**:
+(https://practice.geeksforgeeks.org/explore/?company%5B%5D=Amazon&problemStatus=solved&problemType=functional&page=1&sortBy=submissions "Practice Questions")

@@ -73,3 +73,9 @@
 
 **Reference**:
 (https://practice.geeksforgeeks.org/explore/?company%5B%5D=Amazon&problemStatus=solved&problemType=functional&page=1&sortBy=submissions "Practice Questions")
+
+## Day 12: September 2, 2020,Wedesday
+
+**Today's Progress**: Today I started stack Data Structures. I learned its concepts then practiced implementation of stack using array (i.e, push , pop, display operation).
+
+**Thoughts**: As I started a new topic ,so I wanted to start it slow. Tommorrow I'll be practising implementation using Linked List.

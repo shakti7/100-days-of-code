@@ -79,3 +79,9 @@
 **Today's Progress**: Today I started stack Data Structures. I learned its concepts then practiced implementation of stack using array (i.e, push , pop, display operation).
 
 **Thoughts**: As I started a new topic ,so I wanted to start it slow. Tommorrow I'll be practising implementation using Linked List.
+
+## Day 13: September 3, 2020,Thursday
+
+**Today's Progress**: I practiced implementation of stack using linked list.
+
+**Thoughts**: Due to other workload I couldn't proceed further. Tommorrow I'll practice some problems.

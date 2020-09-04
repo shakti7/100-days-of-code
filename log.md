@@ -85,3 +85,12 @@
 **Today's Progress**: I practiced implementation of stack using linked list.
 
 **Thoughts**: Due to other workload I couldn't proceed further. Tommorrow I'll practice some problems.
+
+## Day 14: September 4, 2020,Friday
+
+**Today's Progress**: I practiced 2 problems from geeksforgeeks which included finding middle element of linked list and printing nth element from end of a linked list.
+
+**Thoughts**: As I felt sleepy today,so, tommorrow I will be solving more problems on linked list.
+
+**Reference**:
+https://practice.geeksforgeeks.org/explore/?company%5B%5D=Amazon&problemStatus=solved&problemType=functional&page=1&sortBy=submissions

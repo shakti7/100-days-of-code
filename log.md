@@ -97,6 +97,6 @@ https://practice.geeksforgeeks.org/explore/?company%5B%5D=Amazon&problemStatus=s
 
 ## Day 15: September 5, 2020,Saturday
 
-**Today's Progress**: I practiced 3 problems from geeksforgeeks which included delete all occurences in a linked list, delete middle element in a linked list and add 1 to a number represented as linked list.
+**Today's Progress**: I practiced 3 problems from geeksforgeeks which included delete all occurrences in a linked list, delete middle element in a linked list and add 1 to a number represented as linked list.
 
 **Thoughts**: I am solving easy problems from gfg as I am unable to face medium and high level problems. 

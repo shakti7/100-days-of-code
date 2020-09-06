@@ -103,3 +103,13 @@ https://practice.geeksforgeeks.org/explore/?company%5B%5D=Amazon&problemStatus=s
 
 **Reference**:
 https://practice.geeksforgeeks.org/explore/?company%5B%5D=Amazon&problemStatus=solved&problemType=functional&page=1&sortBy=submissions
+
+## Day 16: September 6, 2020,Sunday
+
+**Today's Progress**: I practiced 2 problems from geeksforgeeks which included rotation of linked list upto k nodes and remove duplicates from an unsorted linked list.
+
+**Thoughts**: I think I have practiced enough problems on linked list. Tommorrow I'll be starting a new topic.
+
+**Reference**:
+https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1
+https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1

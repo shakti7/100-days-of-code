@@ -113,3 +113,9 @@ https://practice.geeksforgeeks.org/explore/?company%5B%5D=Amazon&problemStatus=s
 **Reference**:
 https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1
 https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1
+
+## Day 17: September 7, 2020,Monday
+
+**Today's Progress**: Today I started Queue Data Structures. I learned its concepts then practiced implementation of queue using array and linkedlist (i.e, enqueue , dequeue, display operation).
+
+**Thoughts**: Tommorrow I will be starting circular queue and learn its applications.

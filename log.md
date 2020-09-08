@@ -119,3 +119,10 @@ https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1
 **Today's Progress**: Today I started Queue Data Structures. I learned its concepts then practiced implementation of queue using array and linkedlist (i.e, enqueue , dequeue, display operation).
 
 **Thoughts**: Tommorrow I will be starting circular queue and learn its applications.
+
+
+## Day 18: September 8, 2020,Tuesday
+
+**Today's Progress**: I practiced Circular queue implementation using linked list and array.
+
+**Thoughts**: Tommorrow I will be starting Doubly ended queue and learn its applications.

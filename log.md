@@ -126,3 +126,13 @@ https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1
 **Today's Progress**: I practiced Circular queue implementation using linked list and array.
 
 **Thoughts**: Tommorrow I will be starting Doubly ended queue and learn its applications.
+
+## Day 19: September 9, 2020,Wednesday
+
+**Today's Progress**: I practiced 2 problems from geeksforgeeks which included sorted insertion for circular linked list and queue implementation using two stack.
+
+**Thoughts**: Today I couldn't start doubly ended queue as I had a lot of workload. I could not provide much time to coding due to this.
+
+**Reference**:
+https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1
+https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1

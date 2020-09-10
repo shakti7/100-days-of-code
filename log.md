@@ -136,3 +136,9 @@ https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1
 **Reference**:
 https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1
 https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1
+
+## Day 20: September 10, 2020,Thursday
+
+**Today's Progress**: I practiced doubly ended queue implementation using circular array.
+
+**Thoughts**: Tomorrow I will be learning some concepts of priority and multique, and then I'll solve few problems.

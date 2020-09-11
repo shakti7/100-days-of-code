@@ -142,3 +142,9 @@ https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1
 **Today's Progress**: I practiced doubly ended queue implementation using circular array.
 
 **Thoughts**: Tomorrow I will be learning some concepts of priority and multique, and then I'll solve few problems.
+
+## Day 21: September 11, 2020,Friday
+
+**Today's Progress**: I practiced priority queue using linked list and just had overview on introduction to Binary Tree.
+
+**Thoughts**: Tomorrow I will be starting with trees.

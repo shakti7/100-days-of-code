@@ -148,3 +148,7 @@ https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1
 **Today's Progress**: I practiced priority queue using linked list and just had overview on introduction to Binary Tree.
 
 **Thoughts**: Tomorrow I will be starting with trees.
+
+**Reference**:
+https://www.geeksforgeeks.org/priority-queue-using-linked-list/
+https://www.geeksforgeeks.org/binary-tree-set-1-introduction/

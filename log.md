@@ -151,4 +151,12 @@ https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1
 
 **Reference**:
 https://www.geeksforgeeks.org/priority-queue-using-linked-list/
+
 https://www.geeksforgeeks.org/binary-tree-set-1-introduction/
+
+
+## Day 22: September 12, 2020,Saturday
+
+**Today's Progress**: First I revised recursion then I started Tree data structures and learned its types & properties. I practiced implementation of binary tree using linked list.
+
+**Thoughts**: I faced some problem in learning tree. Tomorrow I'll be learning its traversal ,insertion and deletion.

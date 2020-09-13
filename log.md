@@ -160,3 +160,9 @@ https://www.geeksforgeeks.org/binary-tree-set-1-introduction/
 **Today's Progress**: First I revised recursion then I started Tree data structures and learned its types & properties. I practiced implementation of binary tree using linked list.
 
 **Thoughts**: I faced some problem in learning tree. Tomorrow I'll be learning its traversal ,insertion and deletion.
+
+## Day 23: September 13, 2020,Sunday
+
+**Today's Progress**: I practicced preorder,postorder and inorder binary tree traversal using linked list.
+
+**Thoughts**: Tomorrow I will practise some problems from gfg and learn binary search tree.

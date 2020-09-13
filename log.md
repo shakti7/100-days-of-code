@@ -10,6 +10,7 @@
 ### Day 2: August 23, 2020, Sunday
 
 **Today's Progress**: Revised array concepts.  Solved some basic problems like deletion of duplicate elements from array, deletion from specified postion,rotating array,printing unique elements in array.
+
 **Thoughts**: Today I was not in a mood to solve problems as things were not going as planned. So, I felt irritated, but still I have to find 1 hour to solve problems. I know that I didn't gave my best today. I hope in upcoming days I'll give my best.I'll develop interest by continuing  this. I am planning to start Linked list in this week.
 
 ### Day 3: August 24, 2020, Monday
@@ -163,6 +164,6 @@ https://www.geeksforgeeks.org/binary-tree-set-1-introduction/
 
 ## Day 23: September 13, 2020,Sunday
 
-**Today's Progress**: I practicced preorder,postorder and inorder binary tree traversal using linked list.
+**Today's Progress**: I practiced preorder,postorder and inorder binary tree traversal using linked list.
 
 **Thoughts**: Tomorrow I will practise some problems from gfg and learn binary search tree.

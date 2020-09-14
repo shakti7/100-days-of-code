@@ -167,3 +167,12 @@ https://www.geeksforgeeks.org/binary-tree-set-1-introduction/
 **Today's Progress**: I practiced preorder,postorder and inorder binary tree traversal using linked list.
 
 **Thoughts**: Tomorrow I will practise some problems from gfg and learn binary search tree.
+
+## Day 24: September 14, 2020,Monday
+
+**Today's Progress**: I practiced to construct BST from given preorder traversal using O(n^2) time complexity.
+
+**Thoughts**: I will start practising the questions related to this topic from tomorrow.
+
+**Reference**:
+https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/

@@ -176,3 +176,15 @@ https://www.geeksforgeeks.org/binary-tree-set-1-introduction/
 
 **Reference**:
 https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/
+
+
+## Day 25: September 15, 2020,Tuesday
+
+**Today's Progress**: I practiced 2 problems on tree from gfg which included calculating height and no. of leaves in a binary tree.
+
+
+**Thoughts**:  Today I went through logical problems on codechef and unable to solve single problem and felt demotivated. Therefore I practiced 2 easy problems from gfg.
+
+**Reference**:
+https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1
+https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1

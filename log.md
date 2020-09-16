@@ -187,4 +187,15 @@ https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/
 
 **Reference**:
 https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1
+
 https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1
+
+## Day 26: September 16, 2020,Wednesday
+
+**Today's Progress**: I practiced 2 problems on tree from gfg which included level order traversal and zig zag tree traversal.
+
+**Thoughts**: I will solve problems on tree for few more days and then I will move to new topic of tree.
+
+**Link(s) to my work**:
+https://practice.geeksforgeeks.org/problems/level-order-traversal/1
+https://practice.geeksforgeeks.org/problems/level-order-traversal/1

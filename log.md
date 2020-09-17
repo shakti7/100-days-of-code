@@ -198,4 +198,17 @@ https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1
 
 **Link(s) to my work**:
 https://practice.geeksforgeeks.org/problems/level-order-traversal/1
+
 https://practice.geeksforgeeks.org/problems/level-order-traversal/1
+
+
+## Day 27: September 17, 2020,Thursday
+
+**Today's Progress**: I practiced 2 basic problems from codeforces which included young scientist and beautiful year problem.
+
+**Thoughts**: Tomorrow I will try to solve atleast 10 problems from codeforces . I will also learn some more concepts of tree.
+
+**Link(s) to my work**:
+https://codeforces.com/problemset/problem/69/A
+
+https://codeforces.com/problemset/problem/271/A

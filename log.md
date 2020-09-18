@@ -212,3 +212,16 @@ https://practice.geeksforgeeks.org/problems/level-order-traversal/1
 https://codeforces.com/problemset/problem/69/A
 
 https://codeforces.com/problemset/problem/271/A
+
+
+## Day 28: September 18, 2020,Friday
+
+**Today's Progress**: I practiced 4 basic problems from codeforces which included concepts on array and strings.
+
+**Thoughts**: Today I couldn't commit my challenge . Tomorrow I will continue with sloving problems from codeforces.
+
+**Link(s) to my work**:
+1.https://codeforces.com/problemset/problem/59/A
+2.https://codeforces.com/problemset/problem/281/A
+3.https://codeforces.com/problemset/problem/266/B
+4.https://codeforces.com/problemset/problem/32/B

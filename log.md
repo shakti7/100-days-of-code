@@ -225,3 +225,15 @@ https://codeforces.com/problemset/problem/271/A
 2.https://codeforces.com/problemset/problem/281/A
 3.https://codeforces.com/problemset/problem/266/B
 4.https://codeforces.com/problemset/problem/32/B
+
+## Day 29: September 19, 2020,Saturday
+
+**Today's Progress**: In continuation with the same,solved 4 problems from codeforces.
+
+**Thoughts**: Tomorrow I will continue with tree data structures.
+
+**Link(s) to my work**:
+1. https://codeforces.com/problemset/problem/233/A
+2. https://codeforces.com/problemset/problem/61/A
+3. https://codeforces.com/problemset/problem/266/A
+4. https://codeforces.com/problemset/problem/110/A

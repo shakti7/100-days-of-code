@@ -237,3 +237,14 @@ https://codeforces.com/problemset/problem/271/A
 2. https://codeforces.com/problemset/problem/61/A
 3. https://codeforces.com/problemset/problem/266/A
 4. https://codeforces.com/problemset/problem/110/A
+
+
+## Day 30: September 20, 2020,Saturday
+
+**Today's Progress**: I solved 2 basic problems of competitive programming.
+
+**Thoughts**: As I was busy ,so I couldn't learn something new. I could hardly find one hour to solve 2 problems.
+
+**Link(s) to my work**:
+1. https://codeforces.com/problemset/problem/129/A
+2. https://codeforces.com/problemset/problem/334/A

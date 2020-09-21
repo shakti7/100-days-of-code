@@ -248,3 +248,14 @@ https://codeforces.com/problemset/problem/271/A
 **Link(s) to my work**:
 1. https://codeforces.com/problemset/problem/129/A
 2. https://codeforces.com/problemset/problem/334/A
+
+## Day 31: September 21, 2020,Saturday
+
+**Today's Progress**: I solved 3 basic problems of competitive programming from Codeforces.
+
+**Thoughts**: Today I actually felt happy after solving problems on my own logic which boosted my confidence for solving further more problems.
+
+**Link(s) to my work**:
+1. https://codeforces.com/problemset/problem/104/A
+2. https://codeforces.com/problemset/problem/336/A
+3. https://codeforces.com/problemset/problem/276/A

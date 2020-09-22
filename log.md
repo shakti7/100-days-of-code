@@ -239,7 +239,7 @@ https://codeforces.com/problemset/problem/271/A
 4. https://codeforces.com/problemset/problem/110/A
 
 
-## Day 30: September 20, 2020,Saturday
+## Day 30: September 20, 2020,Sunday
 
 **Today's Progress**: I solved 2 basic problems of competitive programming.
 
@@ -249,7 +249,7 @@ https://codeforces.com/problemset/problem/271/A
 1. https://codeforces.com/problemset/problem/129/A
 2. https://codeforces.com/problemset/problem/334/A
 
-## Day 31: September 21, 2020,Saturday
+## Day 31: September 21, 2020,Monday
 
 **Today's Progress**: I solved 3 basic problems of competitive programming from Codeforces.
 
@@ -259,3 +259,17 @@ https://codeforces.com/problemset/problem/271/A
 1. https://codeforces.com/problemset/problem/104/A
 2. https://codeforces.com/problemset/problem/336/A
 3. https://codeforces.com/problemset/problem/276/A
+
+## Day 32: September 22, 2020,Tuesday
+
+**Today's Progress**: I solved 5 problems from codeforces.
+
+**Thoughts**: I am excited to solve more and more problems as I am solving basic problems. I paused my learning process on tree. Sooner I'll be continuing with that.
+
+
+**Link(s) to my work**:
+1. https://codeforces.com/contest/285/problem/A
+2. https://codeforces.com/contest/330/problem/A
+3. https://codeforces.com/contest/361/problem/A
+4. https://codeforces.com/contest/92/problem/A
+5. https://codeforces.com/contest/270/problem/A

@@ -266,10 +266,19 @@ https://codeforces.com/problemset/problem/271/A
 
 **Thoughts**: I am excited to solve more and more problems as I am solving basic problems. I paused my learning process on tree. Sooner I'll be continuing with that.
 
-
 **Link(s) to my work**:
 1. https://codeforces.com/contest/285/problem/A
 2. https://codeforces.com/contest/330/problem/A
 3. https://codeforces.com/contest/361/problem/A
 4. https://codeforces.com/contest/92/problem/A
 5. https://codeforces.com/contest/270/problem/A
+
+## Day 33: September 23, 2020,Wednesday
+
+**Today's Progress**:  I solved 2 problems from codeforces.
+
+**Thoughts**: Today I am very disappointed as I could only solve 2 easy problems in 1 hour and I also couldn't find extra time to solve more problems.
+
+**Link(s) to my work**:
+1. http://codeforces.com/problemset/problem/168/A
+2. https://codeforces.com/problemset/problem/122/A

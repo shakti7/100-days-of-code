@@ -282,3 +282,15 @@ https://codeforces.com/problemset/problem/271/A
 **Link(s) to my work**:
 1. http://codeforces.com/problemset/problem/168/A
 2. https://codeforces.com/problemset/problem/122/A
+
+## Day 34: September 24, 2020,Thursday
+
+**Today's Progress**:  I solved 3 problems from codeforces.
+
+**Thoughts**: I wanted to solve few more problems but as the level of question increased I was not able to do that. I will try solving those problems tomorrow.
+
+**Link(s) to my work**:
+1. https://codeforces.com/problemset/problem/102/B
+2. https://codeforces.com/problemset/problem/456/A
+3. https://codeforces.com/problemset/problem/75/A
+

@@ -294,3 +294,8 @@ https://codeforces.com/problemset/problem/271/A
 2. https://codeforces.com/problemset/problem/456/A
 3. https://codeforces.com/problemset/problem/75/A
 
+## Day 35: September 25, 2020,Friday
+
+**Today's Progress**: Learnt STL implementation of sequence conainers like array and vectors.
+
+**Thoughts**: Tomorrow I will be learning more on STL and try implementing it and learn algorithms associated to it.

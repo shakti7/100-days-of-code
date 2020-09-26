@@ -299,3 +299,9 @@ https://codeforces.com/problemset/problem/271/A
 **Today's Progress**: Learnt STL implementation of sequence conainers like array and vectors.
 
 **Thoughts**: Tomorrow I will be learning more on STL and try implementing it and learn algorithms associated to it.
+
+## Day 36: September 26, 2020,Saturday
+
+**Today's Progress**: Learnt STL implementation of container inside a container and associative container like set and multiset .
+
+**Thoughts**: I'll be solving some basic problems related to this ro grab my concepts.

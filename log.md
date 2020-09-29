@@ -305,3 +305,14 @@ https://codeforces.com/problemset/problem/271/A
 **Today's Progress**: Learnt STL implementation of container inside a container and associative container like set and multiset .
 
 **Thoughts**: I'll be solving some basic problems related to this ro grab my concepts.
+
+## Day 37: September 29, 2020,Tuesday
+
+**Today's Progress**: After  2 days of break, today I revised asymptotic analysis,time and space complexity. Then I continued to solve 3 basic problems from codeforces.
+
+**Thoughts**: After the break I thought I have forgot something, so I revised few concepts and I'll continue with this for 4-5 days. Tomorrow I will practice problems on mathematics. I wish further not to take break during 100Days of code.
+
+**Link(s) to my work**:
+1. https://codeforces.com/problemset/problem/248/A
+2. https://codeforces.com/problemset/problem/200/B
+3. https://codeforces.com/problemset/problem/148/A

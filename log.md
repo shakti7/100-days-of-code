@@ -316,3 +316,14 @@ https://codeforces.com/problemset/problem/271/A
 1. https://codeforces.com/problemset/problem/248/A
 2. https://codeforces.com/problemset/problem/200/B
 3. https://codeforces.com/problemset/problem/148/A
+
+## Day 38: September 29, 2020,Tuesday
+
+**Today's Progress**: I practiced some basic problems on mathematics and solved 3 problems from codeforces.
+
+**Thoughts**: I could not find more time to solve more problems. Tomorrow I will try solve problems using recursion.
+
+**Link(s) to my work**:
+1. https://codeforces.com/problemset/problem/228/A
+2. https://codeforces.com/problemset/problem/116/A
+3. https://codeforces.com/problemset/problem/155/A

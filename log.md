@@ -317,7 +317,7 @@ https://codeforces.com/problemset/problem/271/A
 2. https://codeforces.com/problemset/problem/200/B
 3. https://codeforces.com/problemset/problem/148/A
 
-## Day 38: September 29, 2020,Tuesday
+## Day 38: September 30, 2020,Wednesday
 
 **Today's Progress**: I practiced some basic problems on mathematics and solved 3 problems from codeforces.
 
@@ -327,3 +327,15 @@ https://codeforces.com/problemset/problem/271/A
 1. https://codeforces.com/problemset/problem/228/A
 2. https://codeforces.com/problemset/problem/116/A
 3. https://codeforces.com/problemset/problem/155/A
+
+## Day 39: October 1, 2020,Thursday
+
+**Today's Progress**: I practiced basic recursion problems and solved 4 problems from codeforces.
+
+**Thoughts**: Tomorrow I'll resume my leaning process on STL and soon I'll buy a DSA course from GFG for practicing competitive questions and learning new algorithms.
+
+**Link(s) to my work**:
+1. https://codeforces.com/problemset/problem/71/A
+2. https://codeforces.com/problemset/problem/236/A
+3. https://codeforces.com/problemset/problem/141/A
+3. https://codeforces.com/problemset/problem/133/A

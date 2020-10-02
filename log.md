@@ -339,3 +339,15 @@ https://codeforces.com/problemset/problem/271/A
 2. https://codeforces.com/problemset/problem/236/A
 3. https://codeforces.com/problemset/problem/141/A
 3. https://codeforces.com/problemset/problem/133/A
+
+
+## Day 40: October 1, 2020,Thursday
+
+**Today's Progress**: I could not learn any new thing ,so I solved 3 problems from codeforces.
+
+**Thoughts**: Tomorrow I will find some time to study STL and solve more problems. As the level of problems are increasing I could solve very less problems in 1 hour.
+
+**Link(s) to my work**:
+1. https://codeforces.com/problemset/problem/112/A
+2. https://codeforces.com/problemset/problem/231/A
+3. https://codeforces.com/problemset/problem/450/A

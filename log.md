@@ -351,3 +351,15 @@ https://codeforces.com/problemset/problem/271/A
 1. https://codeforces.com/problemset/problem/112/A
 2. https://codeforces.com/problemset/problem/231/A
 3. https://codeforces.com/problemset/problem/450/A
+
+
+## Day 41: October 5, 2020,Monday
+
+**Today's Progress**: For the forst time I participated in Codechef Long challenge contest and could solve only 1 question 1hour and solved another 2 problems from codeforces.
+
+**Thoughts**: I will continue to solve problems of Codechef long challenge.
+
+**Link(s) to my work**:
+1. http://codeforces.com/problemset/problem/230/B
+2. http://codeforces.com/problemset/problem/347/A
+3. https://www.codechef.com/OCT20B/problems/CVDRUN

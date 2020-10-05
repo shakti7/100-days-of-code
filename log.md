@@ -355,7 +355,7 @@ https://codeforces.com/problemset/problem/271/A
 
 ## Day 41: October 5, 2020,Monday
 
-**Today's Progress**: For the forst time I participated in Codechef Long challenge contest and could solve only 1 question 1hour and solved another 2 problems from codeforces.
+**Today's Progress**: For the first time I participated in Codechef Long challenge contest and could solve only 1 question 1hour and solved another 2 problems from codeforces.
 
 **Thoughts**: I will continue to solve problems of Codechef long challenge.
 

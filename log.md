@@ -341,7 +341,7 @@ https://codeforces.com/problemset/problem/271/A
 3. https://codeforces.com/problemset/problem/133/A
 
 
-## Day 40: October 1, 2020,Thursday
+## Day 40: October 2, 2020,Friday
 
 **Today's Progress**: I could not learn any new thing ,so I solved 3 problems from codeforces.
 
@@ -363,3 +363,14 @@ https://codeforces.com/problemset/problem/271/A
 1. http://codeforces.com/problemset/problem/230/B
 2. http://codeforces.com/problemset/problem/347/A
 3. https://www.codechef.com/OCT20B/problems/CVDRUN
+
+
+## Day 42: October 6, 2020,Tuesday
+
+**Today's Progress**: Solved one question from codechef and one from codeforces in 1 hour.
+
+**Thoughts**: I will continue to solve problems of Codechef long challenge and from codeforces.
+
+**Link(s) to my work**:
+1. https://www.codechef.com/OCT20B/problems/CHEFEZQ
+2. http://codeforces.com/problemset/problem/352/A
